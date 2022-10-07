@@ -6,7 +6,7 @@ Structura curs:
 - Ce face un tester
 - Tipuri de testare
 - Test cases
-- Nivele de testare (smoke, functional, full)
+- Nivele de testare (smoke, functional, regression, full)
 - Tooluri - Jira source control - Git
 - Estimari, metodologii
 - Agile , scrum
