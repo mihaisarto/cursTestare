@@ -18,3 +18,4 @@ Structura curs:
 
 
 Neața!
+salut
