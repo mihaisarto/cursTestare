@@ -16,3 +16,5 @@ Structura curs:
 - Practica
 - Altele
 - Aciu
+Neața!
+
