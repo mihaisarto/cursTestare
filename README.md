@@ -15,8 +15,8 @@ Structura curs:
 - Virtualizare, Cloud
 - Practica
 - Altele
-
-
+- Aciu
 Neața!
 
 Branch 2.0
+
