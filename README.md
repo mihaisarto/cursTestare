@@ -15,3 +15,6 @@ Structura curs:
 - Virtualizare, Cloud
 - Practica
 - Altele
+
+
+Neața!
