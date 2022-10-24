@@ -15,3 +15,6 @@ Structura curs:
 - Virtualizare, Cloud
 - Practica
 - Altele
+
+
+- zburadoru zice ca nu-i bine. 
