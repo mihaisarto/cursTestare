@@ -1,3 +1,6 @@
 1. install app on device
 2. urmatorul pas
-3. Orice e rosu
+
+3. pasul urmator
+4. Orice e rosu
+
